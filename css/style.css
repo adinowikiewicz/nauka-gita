@@ -22,7 +22,7 @@
   transition: all 1s; }
   .btn:hover {
     background-position: 0 100%;
-    color: #ffffff; }
+    color: #000000; }
 
 .btn-one {
   border-color: #ffffff;
